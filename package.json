@@ -1,0 +1,14 @@
+{
+  "name": "url2img_perfect",
+  "version": "1.0.0",
+  "description": "Captura una imagen a partir de una url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Hernan Rapetti",
+  "license": "ISC",
+  "dependencies": {
+    "phantom": "^4.0.4"
+  }
+}
